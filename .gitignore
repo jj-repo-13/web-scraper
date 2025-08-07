@@ -1,0 +1,12 @@
+# Node.js dependencies
+node_modules/
+
+# Excludes auto generated folders upon execution
+/test-results/
+/playwright-report/
+/playwright/.cache/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
